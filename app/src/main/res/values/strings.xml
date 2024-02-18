@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppHomeWork</string>
+    <string name="input_name">Nombre</string>
+    <string name="input_mail">Correo</string>
+    <string name="input_birthday">Fecha de nacimiento</string>
+    <string name="send_button">Enviar</string>
+</resources>
